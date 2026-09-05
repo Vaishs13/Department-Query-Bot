@@ -1,0 +1,5 @@
+Flask
+nltk
+spacy
+pandas
+mysql-connector-python
